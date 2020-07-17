@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Hi](https://avatars2.githubusercontent.com/u/1230142?s=400&u=5462992c27e3571b5d514cc7bf947149432b6bd8)
+
 <!--
 **IthacaDream/IthacaDream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
