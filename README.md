@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Hi](https://avatars2.githubusercontent.com/u/1230142?s=400&u=5462992c27e3571b5d514cc7bf947149432b6bd8)
+![Hi](https://i.redd.it/snoovatar/avatars/61b24a8c-e93e-473f-a65e-046d242afca5.png)
 
 <!--
 **IthacaDream/IthacaDream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
